@@ -1,0 +1,27 @@
+.car{
+    color: red;
+}
+#bck{
+    background-color: rgb(194, 193, 193);
+    width: 900px;
+    height: 365px;
+    border:7px solid rgb(172, 166, 166);
+}
+#left{
+    background-color: rgb(194, 193, 193);
+    border: outset gray;
+    height:265px
+    
+}
+.right{
+    background-color: honeydew;
+    float: right;
+    border:7px solid rgb(172, 166, 166);
+    width: 160px;
+    height: 250px;
+    
+}
+.pgh{
+    font-size: 14px;
+
+}
