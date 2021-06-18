@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav1{
+    color:white;
+    background-color:#000000c4;
+    position: sticky;
+    top:0;
+    z-index: 1;
+    
+}
+nav ul li{
+    color:white;
+    display:inline-block;
+    padding: 14px;
+    margin: -3PX;
+    cursor: pointer;
+}
+.navtext{
+    color: white;
+    text-transform: uppercase;
+    font-size:12px ;
+    text-decoration:none;
+}
+#section1{
+    background-color: rgb(22, 22, 22);
+    height:334px;
+    width: 100%;
+}
+.firstimage1{ 
+   text-align: center;
+   padding:10px
+     
+}
+#img1{
+    border: 3px solid yellow;
+    height: 220px;
+    
+}
+.first-image-heading{
+   text-align: center;
+    color:white;
+    font-size:24px;
+}
+#first-img-paragraph{
+    color:white;
+    font-size: 17px;
+    padding: 10px;
+    text-align: center;
+}
+hr{
+    border: 2px solid #000c;;
+}
+.secondimageup{
+    display: inline-block;
+    padding: 15px ;
+}
+.secondimage{
+    display: inline-block;
+    width:290px;
+    height:155px;
+    border: 4px solid white;
+}
+#section2{
+    background-color: rgb(22, 22, 22);
+    text-align: center;
+}
+.second-paragraph{
+    color: white;
+}
+.third-class{
+    display: inline-block;
+}
+.last-img{
+    width:300px;
+    height:215px;
+    border: 4px solid white;  
+}
+
+.last{
+    padding: 10px;
+    display: inline-block;
+}
+.formm{
+    display: block;
+    height: 20px;
+    color:yellow;
+    margin-bottom:15px;
+}
+#lastc{
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+#section3{
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+.lastheading{
+     margin-bottom:50px;
+}
+#tallheight{
+    height: 70px;
+}
